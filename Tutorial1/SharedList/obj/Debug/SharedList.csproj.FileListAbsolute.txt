@@ -1,0 +1,6 @@
+D:\C#Projects\Tutorial1\SharedList\bin\Debug\SharedList.exe.config
+D:\C#Projects\Tutorial1\SharedList\bin\Debug\SharedList.exe
+D:\C#Projects\Tutorial1\SharedList\bin\Debug\SharedList.pdb
+D:\C#Projects\Tutorial1\SharedList\obj\Debug\SharedList.csprojResolveAssemblyReference.cache
+D:\C#Projects\Tutorial1\SharedList\obj\Debug\SharedList.exe
+D:\C#Projects\Tutorial1\SharedList\obj\Debug\SharedList.pdb
