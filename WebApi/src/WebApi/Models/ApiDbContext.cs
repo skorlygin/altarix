@@ -4,7 +4,7 @@ using NLog.Extensions.Logging;
 
 namespace WebApi.Models
 {
-	public sealed class ApiDbContext : DbContext
+	public class ApiDbContext : DbContext
 	{
 		public ApiDbContext(DbContextOptions<ApiDbContext> options) : base(options)
 		{
